@@ -1938,7 +1938,7 @@ Sometimes, a username or email address is reused across different platforms. You
 - Identify **email registations** on other sites.
 - Search in data **leaks/breaches.**
 - Try **password reset.**
-- Conduct reverse email lookup uing **SignalHire.  **
+- Conduct reverse email lookup uing **SignalHire.**
 
 --- 
 
